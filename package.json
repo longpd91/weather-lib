@@ -1,5 +1,5 @@
 {
-  "name": "weather-lib",
+  "name": "longpd-weather-lib",
   "version": "1.0.1",
   "description": "Welcome to the Weather Library! This library provides a simple way to fetch weather data for a specific day using the WeatherAPI.",
   "main": "src/weather.js",
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "weather-lib",
-    "weather"
+    "longpd-weather-lib"
   ],
   "author": "longpd91@gmail.com",
   "license": "MIT",
